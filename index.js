@@ -3,6 +3,7 @@ const messages = require('./messages');
 
 const CustomJoi = Joi.defaults((schema) => {
     return schema.options({ messages })
- });
+});
 
-module.exports = CustomJoi;
+exports = module.exports = CustomJoi;
+exports.messages = messages;
