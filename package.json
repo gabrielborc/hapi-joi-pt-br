@@ -1,7 +1,7 @@
 {
-  "name": "@hapi/joi-pt-BR",
+  "name": "hapijoiPtbr",
   "version": "1.0.0",
-  "description": "Traduziar mensagens de validação do \"@hapi/joi\" para Portugues Brasil",
+  "description": "Traduzir mensagens de validação do \"@hapi/joi\" para Portugues Brasil",
   "main": "index.js",
   "repository": {
       "type": "git",
