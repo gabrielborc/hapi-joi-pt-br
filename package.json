@@ -1,9 +1,18 @@
 {
-  "name": "@hapi/joi_pt-BR",
+  "name": "@hapi/joi-pt-BR",
   "version": "1.0.0",
-  "description": "Translate error message into Brazilian Portuguese",
+  "description": "Traduziar mensagens de validação do \"@hapi/joi\" para Portugues Brasil",
   "main": "index.js",
-  "author": "Gabriel<gabrielborc@gmail.com>",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/gabrielborc/hapi-joi-pt-br"
+  },
+  "keywords": [
+      "hapi",
+      "joi",
+      "pt-br"
+  ],
+  "author": "Gabriel Chiarelo <gabrielborc@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "@hapi/joi": "^17.1.1"
