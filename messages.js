@@ -1,5 +1,5 @@
 const messages = {
-    'any.custom': '{{#label}} failed custom validation because {{#error.message}}',
+    'any.custom': '{{#label}} falha na validação personalizada porque {{#error.message}}',
     'any.default': '{{#label}} gerou um erro ao executar o método padrão',
     'any.failover': '{{#label}} gerou um erro ao executar o método de failover',
     'any.invalid': '{{#label}} possui um valor inválido',
