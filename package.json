@@ -1,0 +1,11 @@
+{
+  "name": "@hapi/joi_pt-BR",
+  "version": "1.0.0",
+  "description": "Translate error message into Brazilian Portuguese",
+  "main": "index.js",
+  "author": "Gabriel<gabrielborc@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1"
+  }
+}
