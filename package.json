@@ -1,6 +1,6 @@
 {
-  "name": "hapijoiptbr",
-  "version": "1.0.0",
+  "name": "joiptbr",
+  "version": "1.0.1",
   "description": "Traduzir mensagens de validação do \"@hapi/joi\" para Portugues Brasil",
   "main": "index.js",
   "repository": {
