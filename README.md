@@ -15,7 +15,7 @@ Antes de instalar, faça o download e instale o Node.js.
 Se este for um projeto totalmente novo, crie um package.json primeiro com o comando npm init
 
 ```
-$ npm install hapijoiptbr
+$ npm install joiptbr
 ```
 
 ## Modo de uso
@@ -27,7 +27,7 @@ Aqui você vai usar a versão do joi que este pacote tem como depedência, assim
 Exemplo: 
 
 ```js
-const Joi = require('hapijoiptbr');
+const Joi = require('joiptbr');
 
 const schema = Joi.object({
     id: Joi.number()
@@ -54,7 +54,7 @@ Exemplo:
 
 ```js
 const Joi = require('@hapi/joi');
-const { message } = require('hapijoiptbr');
+const { message } = require('joiptbr');
 
 const CustomJoi = Joi.defaults((schema) => {
     return schema.options({ messages })
