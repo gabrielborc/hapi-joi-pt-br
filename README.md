@@ -54,7 +54,7 @@ Exemplo:
 
 ```js
 const Joi = require('@hapi/joi');
-const { message } = require('joiptbr');
+const { messages } = require('joiptbr');
 
 const CustomJoi = Joi.defaults((schema) => {
     return schema.options({ messages })
