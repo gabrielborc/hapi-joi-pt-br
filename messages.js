@@ -103,7 +103,7 @@ const messages = {
     'string.length': '{{#label}} deve ter o tamanho de {{#limit}} caracteres',
     'string.lowercase': '{{#label}} deve conter apenas caracteres minúsculos',
     'string.max': '{{#label}} deve ter no máximo {{#limit}} caracteres',
-    'string.min': `{{#label}} deve ter no mínmo {{#limit}} caracteres`,
+    'string.min': `{{#label}} deve ter no mínimo {{#limit}} caracteres`,
     'string.normalize': '{{#label}} deve ser unicode normalizado no {{#form}} formulário',
     'string.token': '{{#label}} deve conter apenas caracteres alfanuméricos e underline',
     'string.pattern.base': '{{#label}} com valor "{[.]}" falha ao corresponder ao padrão necessário: {{#regex}}',
